@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+    background-color: #b3d9ff;
+}
+
+.top {
+    background-color:white;
+}
+.grf {
+    width: 40%;
+    margin-top : -35px;
+    margin-left: -40px;
+}  
+.desc {
+    position: absolute;
+    left: 30%;
+    top: 200px;
+    font-size: 50px;
+    font-family: "britannic";
+}
+.mdl {
+    background-color: white;
+    border: 3px solid #004080;
+    padding: 230px;
+    margin: 80px;
+}
+.tnxpic {
+    position: absolute;
+    right: 8%;
+    top: 630px;
+    width: 30%;
+    margin-top : -35px;
+    margin-left: -40px;
+}  
+.tnx {
+    
+    position: absolute;
+    left: 10%;
+    top: 650px;
+    font-size: 40px;
+    font-family: "kristen itc";
+    font-weight: bold;
+}
+.btm {
+    background-color: #b3d9ff;
+    position: absolute;
+    top: 1100px;
+}
+h1 {
+    text-align: center;
+    font-family: arial;
+    letter-spacing: 3px;
+}
+.next {
+    background-color: #b3d9ff;
+    display: inline-block;
+    margin-top: 80px;
+    margin-left: 10%;
+    width: 20%;
+    border: 3px solid #004080;
+}
+
+.card {
+    display: block;
+    width: 100% ;
+}
+.footer {
+    padding: 40px;
+    letter-spacing: 3px;
+    margin-bottom: 0;
+    background-color: #004080;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-family:"kristen itc" ;
+}
