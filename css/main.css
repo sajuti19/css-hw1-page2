@@ -1,3 +1,11 @@
+@font-face {
+    font-family: "comic";
+    src: url(../assets/fonts/Hey\ Comic.ttf);
+}
+@font-face {
+    font-family: "bubble";
+    src: url(../assets/fonts/JandaManateeBubble.ttf);
+}
 body{
     margin: 0;
     background-color: #b3d9ff;
@@ -16,7 +24,7 @@ body{
     left: 30%;
     top: 200px;
     font-size: 50px;
-    font-family: "britannic";
+    font-family: "comic";
 }
 .mdl {
     background-color: white;
@@ -38,8 +46,9 @@ body{
     left: 10%;
     top: 650px;
     font-size: 40px;
-    font-family: "kristen itc";
+    font-family: "bubble";
     font-weight: bold;
+    color: #004080;
 }
 .btm {
     background-color: #b3d9ff;
@@ -72,5 +81,5 @@ h1 {
     color: white;
     font-size: 50px;
     text-align: center;
-    font-family:"kristen itc" ;
+    font-family:"bubble" ;
 }
